@@ -1,0 +1,49 @@
+body {
+    background-color: #99FFFF;
+}
+
+h1#name, p#title {
+    color: #8C65D3;
+    background-color: #CAB9F1;
+    border: 0px silid;
+    width: 100%;
+    text-align: center;
+}
+
+p#title {
+    margin-left: auto;
+    background-color: #FF6699;
+    font-size: 30px;
+}
+
+p {
+    color: #FFFFFF;
+    background-color: #FF6699;
+    border: 0px solid;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+p#false {
+    font-size: 28px;
+}
+
+table, th {
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+
+th {
+    width: 50%;
+    text-align: center;
+    font-size: 24px;
+    color: #CC33FF;
+}
+
+div.list {
+    width: 49%;
+    height: auto;
+    display: inline-block;
+}
